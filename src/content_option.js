@@ -85,90 +85,97 @@ const services = [
   },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+  {
     name: "Tusker Tea",
     img: "https://cknickbo.sirv.com/Images/tinified/Tusker%20Tea.png",
-    desctiption: "The Australian tea retailer store that provide with authentic design that expand their sales",
+    desctiption:
+      "The Australian tea retailer store that provide with authentic design that expand their sales",
     link: "https://tuskertea.com.au/",
-},
-{
+  },
+  {
     name: "Browns Deals",
     img: "https://cknickbo.sirv.com/Images/tinified/browns.png",
     desctiption: "Enterprise with thousands of items",
     link: "https://brownsdeals.com/",
-},
-{   name: "Spa Ceylon New Zealand",
+  },
+  {
+    name: "Spa Ceylon New Zealand",
     img: "https://cdn.shopify.com/s/files/1/0796/3469/4430/files/Screenshot_2023-08-04_at_7.52.56_PM.png?v=1691159006",
-    desctiption: "The Spa Ceylon range of Ayurveda luxuries is the result of nearly 50 years of expertise in the field of natural health & beauty products from the pioneer in modern Ayurveda beauty care in Sri Lanka.",
+    desctiption:
+      "The Spa Ceylon range of Ayurveda luxuries is the result of nearly 50 years of expertise in the field of natural health & beauty products from the pioneer in modern Ayurveda beauty care in Sri Lanka.",
     link: "https://spaceylonnewzealand.co.nz/",
-},
-{
+  },
+  {
     name: "Shaalis",
     img: "https://cknickbo.sirv.com/Images/tinified/Shaalis.png",
     desctiption: "UK retailer with customized designs for them",
     link: "https://www.shaalis.com/",
-},
-{
+  },
+  {
     name: "PetZon",
     img: "https://cknickbo.sirv.com/Images/tinified/PetZon.png",
     desctiption: "Love puppies, a store made with love",
     link: "https://www.youtube.com/watch?v=cbpKAURo-0A",
-},
-{
+  },
+  {
     name: "Aliya.lk",
     img: "https://cknickbo.sirv.com/Images/tinified/aliya.png",
-    desctiption: "Where fashion meets the digtal space, expanding sales with passion",
+    desctiption:
+      "Where fashion meets the digtal space, expanding sales with passion",
     link: "https://aliya.lk/",
-},
-{
-    name: "Commercial Prime",
-    img: "https://cdn.shopify.com/s/files/1/0784/5691/4223/files/Screenshot_2023-09-30_at_9.08.15_AM.png?v=1696045185",
-    desctiption: "Tap & Connect Digital Business Cards",
-    link: "https://commercialprime.co.uk/",
-},
-{
+  },
+  {
     name: "Miss N lingerie",
     img: "https://cknickbo.sirv.com/Images/tinified/MissN.png",
     desctiption: "Find a large open for lingeries on cyberspace",
     link: "https://missnlingerie.com/",
-},
-{
+  },
+  {
+    name: "Commercial Prime",
+    img: "https://cdn.shopify.com/s/files/1/0784/5691/4223/files/Screenshot_2023-09-30_at_9.08.15_AM.png?v=1696045185",
+    desctiption: "Tap & Connect Digital Business Cards",
+    link: "https://commercialprime.co.uk/",
+  },
+  {
     name: "Aveves",
     img: "https://cknickbo.sirv.com/Images/tinified/Avevus.png",
-    desctiption: "Aveves Beauty Store with elegance design that enhance the product promotions",
+    desctiption:
+      "Aveves Beauty Store with elegance design that enhance the product promotions",
     link: "https://www.behance.net/gallery/153826611/Aveves-Shopify-Dropshipping-Website",
-}, 
-{
+  },
+  {
     name: "Cyber Grips",
     img: "https://cknickbo.sirv.com/Images/tinified/cyber%20grips.png",
     desctiption: "Win the competiton with Gaming web store",
     link: "https://www.youtube.com/watch?v=bnLTsXUdb-g",
-},
-{
+  },
+  {
     name: "GPU Store",
     img: "https://cknickbo.sirv.com/Images/tinified/gpu.png",
     desctiption: "GPU Store, a perfect e-commerce store for quality graphics",
     link: "https://www.youtube.com/watch?v=wCgV2oZRpvE",
-},
-{
+  },
+  {
     name: "Bikerzcape",
     img: "https://cknickbo.sirv.com/Images/tinified/Bikerscape.png",
     desctiption: "Ride the market journey",
     link: "https://www.youtube.com/watch?v=dRDJTKleLkM",
-},
-{
+  },
+  {
     name: "Zip It Pro",
     img: "https://cknickbo.sirv.com/Images/tinified/ZipIt%20Pro.png",
     desctiption: "Simplifying plastic needs with simple store",
     link: "https://www.youtube.com/watch?v=fSJWwUEq55o",
-},
-{
+  },
+  {
     name: "Tempura Frying Pot",
     img: "https://cknickbo.sirv.com/Images/tinified/Tempura.png",
     desctiption: "A right pot targeting market spot",
     link: "https://www.youtube.com/watch?v=3npmx0u_qCo",
-}
+  },
 ];
+
 const contactConfig = {
   YOUR_EMAIL: "hello@lakshitha.live",
   YOUR_FONE: "(94)774457833",
